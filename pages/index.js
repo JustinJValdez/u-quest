@@ -1,4 +1,4 @@
-import HEAD from 'next/head';
+import Head from 'next/head';
 
 import Dice from '../pages/comps/dice';
 
